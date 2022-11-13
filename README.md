@@ -1,13 +1,5 @@
 ### SPS Group welcome You. 
 
+!(/assets/My Files/internal storage/Download/IMG-20221113-WA0002.jpg)
 
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>Home</title>
-  </head>
-  <body>
-    <h1>Hello World!</h1>
-  </body>
-</html>
 
