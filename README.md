@@ -1,3 +1,12 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+header {
+  display: none;
+}
+
 ### SPS Group welcome you.
 
 
