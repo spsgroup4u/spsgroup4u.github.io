@@ -1,13 +1,8 @@
+
 ---
+### SPS Group welcome you. 
 ---
 
-@import "{{ site.theme }}";
-
-header {
-  display: none;
-}
-
-### SPS Group welcome you.
 
 
 <object data="https://spsgroup4u.github.io/SPS_Construction Profile.pdf" type="application/pdf" width="700px" height="700px">
