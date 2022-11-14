@@ -16,9 +16,9 @@ Buildcon established in 2007 focus on providing good construction works
 to its customers. Being in business for last 15 years.
 ---
 
-'''
+
 Project Recently completed and work in progress.
 . DLF Down Town , Shankar Chowk.
 . DLF Summit Plaza.
 . DLF Floors in Sec-92.
-'''
+
